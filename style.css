@@ -25,6 +25,7 @@
 .eletrixshop{
     background-color: white;
     display: flex;
+    justify-content: center;
 }
 
 .eletrixshop-div-conteudo{
